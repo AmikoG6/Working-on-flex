@@ -129,6 +129,10 @@ form {
     border-right: none;
     padding-top: 121px;
 }
+.submit-button {
+    display: flex;
+    justify-content: flex-end;
+}
 button {
     position: absolute;
     top: 500px;
