@@ -8,7 +8,7 @@ body {
     background-color: #0A22F4;
     width: 100%;
 }
-.container {
+body {
     max-width: 1920px;
     width: 100%;
     margin: 0 auto;
@@ -30,7 +30,7 @@ body {
 .contact-box h2 {
     font-size: 32px;
     color: #FFFFFF;
-    margin-top: 100px;
+    margin-top: 80px;
     padding-bottom: 30px;
     font-family: 'Helvetica Neue';
 }
@@ -85,7 +85,7 @@ body {
 }
 /* form section */
 form {
-    margin-top: 150px;
+    margin-top: 130px;
     
 }
 .form-row {
@@ -146,13 +146,13 @@ button {
 /* footer */
 .footer-box {
     align-items: center;
-    margin-top: 270px;
+    margin-top: 180px;
     display: flex;
     color: #FFFFFF;
-    padding-left: 121px;
+    padding-left: 80px;
 }
 .header-text {
-    padding-left: 850px;
+    padding-left: 760px;
     padding-right: 15px;
 }
 .heart-text {
