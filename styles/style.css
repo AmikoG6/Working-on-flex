@@ -6,9 +6,6 @@
 /* container */
 body {
     background-color: #0A22F4;
-    width: 100%;
-}
-body {
     max-width: 1920px;
     width: 100%;
     margin: 0 auto;
@@ -86,6 +83,7 @@ body {
 /* form section */
 form {
     margin-top: 130px;
+    position: relative;
     
 }
 .form-row {
@@ -133,8 +131,8 @@ form {
 }
 button {
     position: absolute;
-    top: 650px;
-    right: 100px;
+    top: 500px;
+    right: 0px;
     background-color: #FFFFFF;
     border-radius: 28px;
     width: 151px;
@@ -144,6 +142,11 @@ button {
     font-family: 'Helvetica Neue';
 }
 /* footer */
+footer {
+    max-width: 1439px;
+    width: 100%;
+    margin: 0 auto;
+}
 .footer-box {
     align-items: center;
     margin-top: 180px;
